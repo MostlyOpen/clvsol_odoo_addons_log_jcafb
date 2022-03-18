@@ -2,9 +2,9 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-======================
-clvsol_odoo_addons_log
-======================
+============================
+clvsol_odoo_addons_log_jcafb
+============================
 
 CLVsol Odoo Addons - Log - JCAFB customizations
 
