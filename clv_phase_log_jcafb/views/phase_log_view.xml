@@ -11,7 +11,6 @@
         <field name="priority" eval="8" />
         <field name="arch" type="xml">
             <page name="settings" position="after">
-                <!--page string="Log" groups="clv_base.group_loguser" attrs="{'invisible': ['|', ('active_log', '=', False)]}"-->
                 <page string="Log" groups="clv_base.group_loguser">
                     <group name="record_log">
                         <group name="creation">
@@ -49,9 +48,6 @@
                                 <field name="values"/>
                                 <field name="action"/>
                                 <field name="notes"/>
-                                <!--field name="model"/-->
-                                <!--field name="res_id"/-->
-                                <!--field name="reference"/-->
                             </tree>
                         </field>
                     </group>
