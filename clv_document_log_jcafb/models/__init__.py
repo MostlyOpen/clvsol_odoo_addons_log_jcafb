@@ -4,5 +4,4 @@
 
 from . import document_log
 from . import document_type_log
-from . import document_category_log
 from . import document_item_log
