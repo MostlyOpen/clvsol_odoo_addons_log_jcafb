@@ -16,7 +16,6 @@
     ],
     'data': [
         'views/residence_log_view.xml',
-        'views/residence_category_log_view.xml',
         'data/global_log_client.xml',
     ],
     'demo': [],

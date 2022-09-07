@@ -4,10 +4,6 @@
 
 <odoo noupdate="0">
  
-	<record id="clv_global_log_client_clv_residence_category" model="clv.global_log.client">
-		<field name="model_name" eval="&quot;&quot;&quot;clv.residence.category&quot;&quot;&quot;"/>
-	</record>
-	 
 	<record id="clv_global_log_client_clv_residence" model="clv.global_log.client">
 		<field name="model_name" eval="&quot;&quot;&quot;clv.residence&quot;&quot;&quot;"/>
 	</record>
