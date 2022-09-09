@@ -17,7 +17,6 @@
     ],
     'data': [
         'views/patient_log_view.xml',
-        'views/patient_category_log_view.xml',
         'data/global_log_client.xml',
     ],
     'demo': [],
