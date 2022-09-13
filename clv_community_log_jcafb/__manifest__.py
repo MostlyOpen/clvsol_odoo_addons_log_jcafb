@@ -17,7 +17,6 @@
     ],
     'data': [
         'views/community_log_view.xml',
-        'views/community_category_log_view.xml',
         'data/global_log_client.xml',
     ],
     'demo': [],

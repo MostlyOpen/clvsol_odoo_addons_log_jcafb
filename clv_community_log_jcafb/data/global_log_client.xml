@@ -4,10 +4,6 @@
 
 <odoo noupdate="0">
  
-	<record id="clv_global_log_client_clv_community_category" model="clv.global_log.client">
-		<field name="model_name" eval="&quot;&quot;&quot;clv.community.category&quot;&quot;&quot;"/>
-	</record>
-	 
 	<record id="clv_global_log_client_clv_community" model="clv.global_log.client">
 		<field name="model_name" eval="&quot;&quot;&quot;clv.community&quot;&quot;&quot;"/>
 	</record>
