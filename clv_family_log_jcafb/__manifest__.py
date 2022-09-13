@@ -16,7 +16,6 @@
     ],
     'data': [
         'views/family_log_view.xml',
-        'views/family_category_log_view.xml',
         'data/global_log_client.xml',
     ],
     'demo': [],
