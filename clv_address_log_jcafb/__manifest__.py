@@ -17,7 +17,6 @@
     ],
     'data': [
         'views/address_log_view.xml',
-        'views/address_category_log_view.xml',
         'data/global_log_client.xml',
     ],
     'demo': [],
