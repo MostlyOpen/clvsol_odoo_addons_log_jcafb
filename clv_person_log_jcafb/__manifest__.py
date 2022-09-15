@@ -17,7 +17,6 @@
     ],
     'data': [
         'views/person_log_view.xml',
-        'views/person_category_log_view.xml',
         'data/global_log_client.xml',
     ],
     'demo': [],
