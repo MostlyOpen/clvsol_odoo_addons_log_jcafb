@@ -16,9 +16,9 @@
 		<field name="model_name" eval="&quot;&quot;&quot;clv.lab_test.result&quot;&quot;&quot;"/>
 	</record>
 	 
-	<record id="clv_global_log_client_clv_lab_test_report" model="clv.global_log.client">
+	<!--record id="clv_global_log_client_clv_lab_test_report" model="clv.global_log.client">
 		<field name="model_name" eval="&quot;&quot;&quot;clv.lab_test.report&quot;&quot;&quot;"/>
-	</record>
+	</record-->
 	 
 	<record id="clv_global_log_client_clv_lab_test_criterion" model="clv.global_log.client">
 		<field name="model_name" eval="&quot;&quot;&quot;clv.lab_test.criterion&quot;&quot;&quot;"/>
